@@ -1,0 +1,83 @@
+.wrapper {
+  margin: 5px;
+}
+
+body {
+  background-image: url(https://www.kastapp.co/images/gradient-violet-bg.jpg);
+  background-size: center;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-family: Snell Roundhand, cursive, Helvetica, sans-serif;
+}
+h1 {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h3 {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+h4 {
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+background {
+  color: white;
+}
+
+.topnav {
+  background-color: transparent;
+  width: 100%;
+  top: 0;
+}
+
+#logo {
+    height: 100px;
+    width: 250px;
+}
+
+.navlink {
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    font-size: 16px;
+    float: right;
+    margin-top: -10;
+}
+
+#landingDiv {
+    width: 40%;
+    margin-left: 30%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+#laptop {
+    width: 600px;
+    height: 350px;
+}
+
+#openButton {
+    background-color: orange;
+
+}
+h3
+{
+    color:black
+}
+h3Class{
+  color: white
+}
