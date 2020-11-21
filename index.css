@@ -8,6 +8,7 @@ body {
 }
 h1 {
   text-align: center;
+  font-size:40px;
 }
 
 h2 {
@@ -53,9 +54,11 @@ background {
     text-decoration: none;
     color: white;
     margin-right: 20px;
-    font-size: 16px;
+    font-size: 18px;
     float: right;
     margin-top: -10;
+    font-family: "Lucida Sans", "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 #landingDiv {
@@ -66,18 +69,36 @@ background {
 }
 
 #laptop {
-    width: 600px;
-    height: 350px;
+    width: 700px;
+    height: 400px;
+    margin-left: -20%;
 }
 
 #openButton {
     background-color: orange;
 
 }
-h3
-{
-    color:black
+div class{
+  text-align: center;
 }
-h3Class{
-  color: white
+#feat{
+  color:black;
+  margin-left:-5%;
+  font-size: 25px;
+  
+}
+#quote{
+  text-align:center;
+  margin-right: 20%;
+}
+#logoimage{
+  height:70%;
+  width:50%;
+  margin-left:25%;
+}
+#bottomDiv{
+  background-color:white;
+  width:100%;
+  height:60%;
+
 }
