@@ -8,7 +8,7 @@ body {
 }
 h1 {
   text-align: center;
-  font-size:40px;
+  font-size: 40px;
 }
 
 h2 {
@@ -46,59 +46,119 @@ background {
 }
 
 #logo {
-    height: 100px;
-    width: 250px;
+  height: 100px;
+  width: 250px;
 }
 
 .navlink {
-    text-decoration: none;
-    color: white;
-    margin-right: 20px;
-    font-size: 18px;
-    float: right;
-    margin-top: -10;
-    font-family: "Lucida Sans", "Lucida Sans", "Lucida Sans Regular",
+  text-decoration: none;
+  color: white;
+  margin-right: 10px;
+  font-size: 18px;
+  float: right;
+  font-family: "Lucida Sans", "Lucida Sans", "Lucida Sans Regular",
     "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#linkit {
+  margin-top: -70px;
 }
 
 #landingDiv {
-    width: 40%;
-    margin-left: 30%;
-    text-align: center;
-    margin-top: 10%;
+  width: 40%;
+  margin-left: 30%;
+  text-align: center;
+  margin-top: 10%;
 }
 
 #laptop {
-    width: 700px;
-    height: 400px;
-    margin-left: -20%;
+  width: 700px;
+  height: 400px;
+  margin-left: -20%;
 }
 
 #openButton {
-    background-color: orange;
-
+  background-color: orange;
 }
-div class{
+div class {
   text-align: center;
 }
-#feat{
-  color:black;
-  margin-left:-5%;
+#feat {
+  color: black;
+  margin-left: -5%;
   font-size: 25px;
-  
 }
-#quote{
-  text-align:center;
+#quote {
+  text-align: center;
   margin-right: 20%;
 }
-#logoimage{
-  height:70%;
-  width:50%;
-  margin-left:25%;
+#logoimage {
+  height: 70%;
+  width: 50%;
+  margin-left: 25%;
 }
-#bottomDiv{
-  background-color:white;
-  width:100%;
-  height:60%;
+#bottomDiv {
+  background-color: white;
+  width: 100%;
+  height: 60%;
+}
 
+.flex-container {
+  display: flex;
+  height: 600px;
+  flex-wrap: wrap;
+  align-content: space-between;
 }
+
+.box2 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+#showrooms {
+  color: white;
+  text-decoration: none;
+}
+#account {
+  color: white;
+  text-decoration: none;
+}
+.box3 {
+  display: flex-end;
+  justify-content: space-around;
+  margin-top: 15px;
+}
+.rightMainNav {
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+}
+.box4 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+}
+
+#logogrid {
+  display: flex;
+  height: 400px;
+  margin-left: 17.5%;
+  width: 65%;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.otherlogos {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.quote {
+  margin-left: 30%;
+}
+
+.text-block-2 {
+  margin-left: 60%;
+}
+
